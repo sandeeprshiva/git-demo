@@ -1,2 +1,2 @@
 # git-demo
-sandeep me as uthor
+sandeep me author
